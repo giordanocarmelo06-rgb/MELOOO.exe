@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://giordanocarmelo06-rgb.github.io/MELOOO.exe/sitemap.xml
